@@ -26,6 +26,7 @@ Goal: recognize hand-written digits 0–9 using a small neural network.
 
 ## 🚀 Run it
 #Python 3.9+
+
 pip install tensorflow matplotlib
 python mnist_tf.py
 
@@ -62,6 +63,7 @@ Cel: rozpoznawanie odręcznych cyfr 0–9 przy użyciu małej sieci neuronowej.
 ⸻
 
 ## 🚀 Uruchomienie
+
 #Python 3.9+
 pip install tensorflow matplotlib
 python mnist_tf.py
