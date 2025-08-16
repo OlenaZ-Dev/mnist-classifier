@@ -25,11 +25,11 @@ Goal: recognize hand-written digits 0–9 using a small neural network.
 ⸻
 
 ## 🚀 Run it
+```bash
 #Python 3.9+
-
 pip install tensorflow matplotlib
 python mnist_tf.py
-
+```
 ## 📊 Result
 -	Final test accuracy: 97.7%
 -	Small simple model (1 hidden layer, 5 epochs) is enough to recognize handwritten digits well.
@@ -63,10 +63,11 @@ Cel: rozpoznawanie odręcznych cyfr 0–9 przy użyciu małej sieci neuronowej.
 ⸻
 
 ## 🚀 Uruchomienie
-
+```bash
 #Python 3.9+
-pip install tensorflow matplotlib
-python mnist_tf.py
+- pip install tensorflow matplotlib
+- python mnist_tf.py
+```
 
 ## 📊 Wyniki
 -	Końcowa dokładność testu: 97.7%
